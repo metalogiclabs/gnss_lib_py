@@ -129,7 +129,7 @@ CODE_TYPE_ANDROID = {
                     }
 """dict : GNSS code type identifier from GnssMeasurement specification [4]_."""
 
-QZSS_PRN_SVN = {193 : 1,
+QZSS_PRN_SVN = {193 : 11,
                 194 : 2,
                 199 : 3,
                 195 : 4,
